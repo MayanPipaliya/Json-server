@@ -1,22 +1,50 @@
 {
-  "students": [
+  "products": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
+      "id": "1088",
+      "title": "t-shirt",
+      "price": "1234",
+      "category": "t-shirt"
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
+      "id": "dfec",
+      "title": "pant",
+      "price": "1234",
+      "category": "pant"
+    }
+  ],
+  "users": [
+    {
+      "id": "4b29",
+      "name": "rekha",
+      "email": "r@g.c",
+      "password": "12",
+      "role": "admin",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCy16nhIbV3pI1qLYHMJKwbH2458oiC9EmA&s"
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "8f06",
+      "name": "john",
+      "email": "re@g.c",
+      "password": "12",
+      "role": "user",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCy16nhIbV3pI1qLYHMJKwbH2458oiC9EmA&s"
+    },
+    {
+      "id": "1656",
+      "name": "Mayan",
+      "email": "pipaliyamayan996@gmail.com",
+      "password": "mayan@9090",
+      "role": "user",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8AAxAr9ZNr9JCwn2QZ35rSWWuiayhh0ayQ&s"
+    },
+    {
+      "id": "47bb",
+      "name": "Mayan",
+      "email": "pipaliyamayan996@gmail.com",
+      "password": "mayan@9090",
+      "role": "admin",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8AAxAr9ZNr9JCwn2QZ35rSWWuiayhh0ayQ&s"
     }
   ]
 }
